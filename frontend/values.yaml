@@ -1,0 +1,4 @@
+deployment:
+  imageversion: v1
+hpa:
+  cpuutilization: 20

@@ -1,4 +1,6 @@
 deployment:
-  imageversion: v1
+  replication: 2
+  imageversion: 2
+  
 hpa:
   cpuutilization: 20
